@@ -140,7 +140,6 @@ stop-dfs.cmd
 
 ##  References
 
-- [Install java](https://www.java.com/en/download/manual.jsp)
 - [Hadoop Cluster Setup (Apache Docs)](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html)
 
 
