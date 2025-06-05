@@ -140,8 +140,8 @@ stop-dfs.cmd
 
 ##  References
 
-- [Install Hadoop 3.x in WSL on Windows (Kontext)](https://kontext.tech/article/603/install-hadoop-3x-on-windows-10-using-wsl)
+- [Install java](https://www.java.com/en/download/manual.jsp)
 - [Hadoop Cluster Setup (Apache Docs)](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html)
-- [How to Run a JAR File in Hadoop (Stack Overflow)](https://stackoverflow.com/questions/25743057/how-to-run-jar-file-in-hadoop)
+
 
 
