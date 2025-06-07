@@ -36,7 +36,7 @@ hadoop-covid/
 
 ---
 
-## ⚙ Setup & Configuration
+##  Setup & Configuration
 
 ### 1. Hadoop on WSL
 
